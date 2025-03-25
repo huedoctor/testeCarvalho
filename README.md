@@ -38,7 +38,7 @@ The backend will run on `http://localhost:3000/api/scrape`.
 
 ```bash
 npm create vite@latest frontend --template vanilla
-cd frontend
+cd frontend/frontend
 npm install
 ```
 
